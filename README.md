@@ -13,4 +13,8 @@ SO THAT I can manage my time effectively
 ## Screenshot
 ![SCREENSHOT](assets/images/dailyplanner.png)
 
+## Live Link
+
+https://jr-source.github.io/Work-Day-Scheduler/
+
 - - -
